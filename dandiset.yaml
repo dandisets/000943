@@ -18,8 +18,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 964991510312
-  numberOfFiles: 725
+  numberOfBytes: 976205947390
+  numberOfFiles: 734
   numberOfSubjects: 12
   schemaKey: AssetsSummary
   species:
@@ -31,7 +31,7 @@ assetsSummary:
   - ElectricalSeries
 citation: Clark, Harry (2024) Clark and Nolan (2024) Task-anchored grid cell firing
   is selectively associated with successful path integration-dependent behaviour (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000943/draft
+  0.240614.0754) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000943/0.240614.0754
 contributor:
 - affiliation: []
   email: harrydclark91@gmail.com
@@ -46,12 +46,13 @@ description: This dataset contains electrophysiological recordings alongside the
   behavioural data for mice running in an open field and virtual linear track environments.
   Movable tetrodes were targeted to the medial entorhinal cortex. Further details
   can be found here (https://doi.org/10.7554/eLife.89356.2).
-id: DANDI:000943/draft
+doi: 10.48324/dandi.000943/0.240614.0754
+id: DANDI:000943/0.240614.0754
 identifier: DANDI:000943
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000943/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000943/0.240614.0754/assets.yaml
 name: Clark and Nolan (2024) Task-anchored grid cell firing is selectively associated
   with successful path integration-dependent behaviour
 publishedBy:
@@ -69,5 +70,5 @@ publishedBy:
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
-url: https://dandiarchive.org/dandiset/000943/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000943/0.240614.0754
+version: 0.240614.0754
