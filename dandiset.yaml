@@ -41,6 +41,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-03-28T13:15:33.968368+00:00'
+datePublished: '2024-06-14T07:54:00.727327+00:00'
 description: This dataset contains electrophysiological recordings alongside the synchronised
   behavioural data for mice running in an open field and virtual linear track environments.
   Movable tetrodes were targeted to the medial entorhinal cortex. Further details
@@ -53,6 +54,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000943/versions/draft/assets/
 name: Clark and Nolan (2024) Task-anchored grid cell firing is selectively associated
   with successful path integration-dependent behaviour
+publishedBy:
+  endDate: '2024-06-14T07:54:00.727327+00:00'
+  id: urn:uuid:19f6134a-aee2-4ad2-bcbf-072d46afdcbf
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-06-14T07:54:00.727327+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:e6962b3c-1ce8-4f1e-b540-baed3433f69a
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
